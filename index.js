@@ -27,20 +27,20 @@ const reviewItems = [
 const featuresItemsContent = [
     {
         id: 1,
-        name: "RDO Calendar", 
-        description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime ",
+        name: "Patrol Guide", 
+        description: "Your essential reference for NYPD policies and procedures. Easily searchable, always accessible, and continuously updated to keep you informed and confident on duty.",
         imageLink: "./mobile_screen_rdo_calendar.png"
     },
     {
         id: 2,
-        name: "Overtime Calculator", 
-        description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime ",
+        name: "Department Fuel Locations", 
+        description: "Easily locate all department fuel stations across NYC. Plan your refueling efficiently with precise locations integrated into the map, ensuring you're always ready to go without delays.",
         imageLink: "./mobile_screen_overtime_calculator.png"
     },
     {
         id: 3,
-        name: "Overtime History", 
-        description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime ",
+        name: "10 Codes", 
+        description: "Access a comprehensive list of 10 codes at your fingertips. Quickly reference essential communication codes to streamline your radio transmissions and enhance communication efficiency while on duty.",
         imageLink: "./mobile_screen_overtime_history.png"
     }
 ];

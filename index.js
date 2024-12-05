@@ -1,7 +1,7 @@
 const myDocument = document.querySelector.bind(document);
 
 const howItWorksContent = [
-    {id: 1, name: "NYS Penal Law", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "},
+    {id: 1, name: "RDO Calendar", description: "Stay organized with ease! Track your regular days off, vacations, and IVDs effortlessly. Our app supports traditional, 12-hour, and 10-hour charts—and if those don't fit, create your own custom schedule. Never miss a shift or lose track of your time off again. "},
     {id: 2, name: "NYPD Patrol Guide", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "},
     {id: 3, name: "Most common TPO", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "},
     {id: 4, name: "Department Phone Book", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "}

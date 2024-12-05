@@ -2,9 +2,9 @@ const myDocument = document.querySelector.bind(document);
 
 const howItWorksContent = [
     {id: 1, name: "RDO Calendar", description: "Stay organized with ease! Track your regular days off, vacations, and IVDs effortlessly. Our app supports traditional, 12-hour, and 10-hour charts—and if those don't fit, create your own custom schedule. Never miss a shift or lose track of your time off again. "},
-    {id: 2, name: "NYPD Patrol Guide", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "},
-    {id: 3, name: "Most common TPO", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "},
-    {id: 4, name: "Department Phone Book", description: "With our app, you can access a comprehensive reference guide to THE JOB,  summonses and NYS Penal Law. Additionally, our advanced Overtime "}
+    {id: 2, name: "Overtime Calculator", description: "Effortlessly manage, track, and calculate your overtime hours. Save your history to iCloud, and easily email or print overtime slips with just a tap. Say goodbye to manual forms—let us handle the hard work for you! "},
+    {id: 3, name: "NYC Precinct Map", description: "Navigate with ease using our interactive map featuring precinct borders, sector boundaries, and gas pump locations. Search by address to instantly know which sector covers your location—no need to call central and wait for a response. Never get lost on any detail! "},
+    {id: 4, name: "Penal Law", description: "Stay up to date with the latest New York Penal Law statutes. Easily searchable, always readable, and automatically updated—no manual updates required. Access accurate charges and legal information right from your pocket, anytime you need it. "}
 ];
 
 const reviewItems = [

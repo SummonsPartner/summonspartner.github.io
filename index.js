@@ -33,7 +33,7 @@ const featuresItemsContent = [
     },
     {
         id: 2,
-        name: "Department Fuel Locations", 
+        name: "Fuel Locations", 
         description: "Easily locate all department fuel stations across NYC. Plan your refueling efficiently with precise locations integrated into the map, ensuring you're always ready to go without delays.",
         imageLink: "./mobile_screen_overtime_calculator.png"
     },
